@@ -93,4 +93,16 @@ Gorąco zachęcam do kontaktu z autorami poszczególnych dyscyplin, zarówno za 
     - Uwagi:
         - Proszę nie poruszać tematu SAFe i skalowania SCRUMa
 
+- **BDD**
+    - Pomocne materiały:
+        - https://www.youtube.com/watch?v=xNWFy8t2m_Y
+        - https://dannorth.net/introducing-bdd/
+    - Autorzy:
+        - Dan North, [https://twitter.com/tastapod](https://twitter.com/tastapod)
+        - 
+    - Osoby:
+        - Ela P.
+        - Paweł B.
+     - Uwagi:
+
 Plan będzie uzupełniany o kolejne dyscypliny, zgłoszeń do kolejnych tematów można dokonywać podczas zajęć.
